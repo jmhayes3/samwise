@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "samewise"
+name = "samwise"
 version = "0.1.0"
 description = "Assessing writing comprehension using LLMs."
 authors = ["jmhayes3 <0.chariot.zombies@icloud.com>"]
